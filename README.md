@@ -22,9 +22,6 @@ API-indecon: docker run -p 8080:8080 -it slackwero/bice-api-indecon:latest
 
 Y eso es todo!
 
-Abrir en el explorador la URL`http://localhost:4200/`
-
-
 ## Otros proyectos relacionados al Test
 
 [https://github.com/slackwero/bice-frontend](https://github.com/slackwero/bice-frontend)
